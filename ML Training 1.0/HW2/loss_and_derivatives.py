@@ -1,6 +1,4 @@
 import numpy as np
-from requests.packages import target
-
 
 class LossAndDerivatives:
     @staticmethod
